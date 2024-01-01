@@ -1222,7 +1222,7 @@
     (stroke (width 0.3) (type default)) (layer "F.SilkS") (tstamp f8b99025-a3c8-4b97-91ff-537d1ff37785))
   (gr_rect (start 100 49.8) (end 199 134)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 911da0ff-9220-44fa-874a-98099306297e))
-  (gr_text "Free-MoN Hub\n${ISSUE_DATE}\nVersion ${REVISION}" (at 148 128.2) (layer "F.SilkS") (tstamp fa08ea45-2a52-45e6-bd8f-e658f36607ff)
+  (gr_text "Free-moN Hub\n${ISSUE_DATE}\nVersion ${REVISION}" (at 148 128.2) (layer "F.SilkS") (tstamp fa08ea45-2a52-45e6-bd8f-e658f36607ff)
     (effects (font (size 3 3) (thickness 0.7) bold) (justify bottom))
   )
 
