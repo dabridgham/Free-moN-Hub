@@ -1225,7 +1225,7 @@
     (uuid f8030318-863b-400c-a2c9-99e64fb5476b)
   )
 
-  (label "-12V" (at 179.07 77.47 180) (fields_autoplaced)
+  (label "-12V" (at 140.97 77.47 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4be62513-c888-4298-9bf7-665ca9414350)
   )
@@ -1237,9 +1237,13 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6d156c1e-a3d0-4587-b2f1-840e00dc043f)
   )
-  (label "+12V" (at 179.07 59.69 180) (fields_autoplaced)
+  (label "+12V" (at 142.24 59.69 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7e41bb5c-d065-4566-8c31-927fc6933283)
+  )
+  (label "+Reg" (at 173.99 59.69 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bbe4c717-b387-4868-9327-6e43b69af0e2)
   )
 
   (symbol (lib_id "Device:LED_Filled") (at 90.17 87.63 0) (mirror x) (unit 1)
