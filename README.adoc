@@ -7,4 +7,4 @@ VDC linear regulator, a reversing relay, and LEDs to indicate power on
 the ACC and DCC busses.
 
 See the https://github.com/dabridgham/Free-moN-Hub/wiki[wiki] for more
-information (not yet written).
+information.
